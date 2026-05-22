@@ -1,6 +1,6 @@
 # English Reading Assistant Skill
 
-`english-reading-assistant` 是一个用于把英文文章转换成单文件沉浸式双语阅读 Web App 的  Skill。它面向英语学习场景，会把原始英文文本加工成带有词汇高亮、逐段中译、阅读进度、字体调节和暗色模式的 `index.html` 页面。
+`english-reading-assistant` 是一个用于把英文文章转换成单文件沉浸式双语阅读 Web App 的  Skill。它面向英语学习场景，会把原始英文文本加工成带有词汇高亮、逐段中译、阅读进度、字体调节和暗色模式的 `index.html` 页面。可以导入复制好的文字，图片，world，pdf，因为丰富度的原因，导入word和pdf所需时间较长。
 
 ## 适用场景
 
